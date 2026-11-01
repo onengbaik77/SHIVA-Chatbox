@@ -47,3 +47,7 @@ This repository contains experimental development code. Not all components are i
 ---
 
 **SHIVA — Building a unified AI workspace, one step at a time.**
+
+## SHIVA Chatbox Preview
+
+![SHIVA Chatbox Screenshot](shiva-chatbox.png)
