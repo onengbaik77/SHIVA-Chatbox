@@ -1,0 +1,43 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+credentials/
+
+# Personal data
+brain/memory/*.json
+brain/history/*.json
+data/
+workspace/
+sessions/
+runtime/
+logs/
+
+# AI models
+models/
+*.gguf
+*.safetensors
+*.pt
+*.pth
+
+# Backups and temporary files
+*_backup.py
+*_before_*.py
+*.before_*.py
+*.bak
+*.backup
+patch_*.py
+temp/
+tmp/
+
+# Local development
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
